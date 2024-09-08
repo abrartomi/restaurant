@@ -1,0 +1,11 @@
+@media (max-width:968px) {
+    .float-item {
+        float: none;
+        width: 100%;
+    }
+    .footer .float-item{
+        width: 100%;
+
+    }
+    
+}

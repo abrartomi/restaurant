@@ -1,0 +1,10 @@
+@media  (max-width:1000px){
+
+  .float-item{
+   float: none;
+   width: 100%;
+  }
+  
+}
+
+
